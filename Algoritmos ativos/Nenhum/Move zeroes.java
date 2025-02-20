@@ -1,3 +1,5 @@
+package Nenhum;
+
 class Solution {
 
     // Método para mover todos os zeros de um array para o final,

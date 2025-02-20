@@ -1,4 +1,4 @@
-```java
+package QuickSort;```java
 class Solution {
     // Função principal que retorna os k pontos mais próximos da origem.
     // Recebe um array 2D 'points' onde cada elemento é um ponto [x, y]

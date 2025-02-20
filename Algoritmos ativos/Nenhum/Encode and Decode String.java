@@ -1,4 +1,4 @@
-// A classe Solution contém dois métodos: encode e decode.
+package Nenhum;// A classe Solution contém dois métodos: encode e decode.
 // O método encode transforma uma lista de strings em uma única string,
 // escapando os caracteres especiais que podem conflitar com o delimitador.
 // O método decode reconstrói a lista original a partir da string codificada.
