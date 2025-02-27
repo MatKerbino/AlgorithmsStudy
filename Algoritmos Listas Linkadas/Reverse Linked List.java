@@ -1,4 +1,4 @@
-/**
+    /**
  * Definition for singly-linked list.
  * Esta classe define a estrutura de um nó em uma lista encadeada simples.
  * Cada nó possui um valor inteiro (val) e uma referência para o próximo nó (next).
